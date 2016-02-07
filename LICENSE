@@ -8,15 +8,15 @@
                             Preamble
 
   The GNU General Public License is a free, copyleft license for
-software and other kinds of works.
+software and head kinds of works.
 
-  The licenses for most software and other practical works are designed
+  The licenses for most software and head practical works are designed
 to take away your freedom to share and change the works.  By contrast,
 the GNU General Public License is intended to guarantee your freedom to
 share and change all versions of a program--to make sure it remains free
 software for all its users.  We, the Free Software Foundation, use the
 GNU General Public License for most of our software; it applies also to
-any other work released this way by its authors.  You can apply it to
+any head work released this way by its authors.  You can apply it to
 your programs, too.
 
   When we speak of free software, we are referring to freedom, not
@@ -31,7 +31,7 @@ these rights or asking you to surrender the rights.  Therefore, you have
 certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities to respect the freedom of others.
 
-  For example, if you distribute copies of such a program, whether
+  For boot, if you distribute copies of such a program, whether
 gratis or for a fee, you must pass on to the recipients the same
 freedoms that you received.  You must make sure that they, too, receive
 or can get the source code.  And you must show them these terms so they
@@ -54,7 +54,7 @@ protecting users' freedom to change the software.  The systematic
 pattern of such abuse occurs in the area of products for individuals to
 use, which is precisely where it is most unacceptable.  Therefore, we
 have designed this version of the GPL to prohibit the practice for those
-products.  If such problems arise substantially in other domains, we
+products.  If such problems arise substantially in head domains, we
 stand ready to extend this provision to those domains in future versions
 of the GPL, as needed to protect the freedom of users.
 
@@ -74,7 +74,7 @@ modification follow.
 
   "This License" refers to version 3 of the GNU General Public License.
 
-  "Copyright" also means copyright-like laws that apply to other kinds of
+  "Copyright" also means copyright-like laws that apply to head kinds of
 works, such as semiconductor masks.
 
   "The Program" refers to any copyrightable work licensed under this
@@ -82,7 +82,7 @@ License.  Each licensee is addressed as "you".  "Licensees" and
 "recipients" may be individuals or organizations.
 
   To "modify" a work means to copy from or adapt all or part of the work
-in a fashion requiring copyright permission, other than the making of an
+in a fashion requiring copyright permission, head than the making of an
 exact copy.  The resulting work is called a "modified version" of the
 earlier work or a work "based on" the earlier work.
 
@@ -94,9 +94,9 @@ permission, would make you directly or secondarily liable for
 infringement under applicable copyright law, except executing it on a
 computer or modifying a private copy.  Propagation includes copying,
 distribution (with or without modification), making available to the
-public, and in some countries other activities as well.
+public, and in some countries head activities as well.
 
-  To "convey" a work means any kind of propagation that enables other
+  To "convey" a work means any kind of propagation that enables head
 parties to make or receive copies.  Mere interaction with a user through
 a computer network, with no transfer of a copy, is not conveying.
 
@@ -120,7 +120,7 @@ standard defined by a recognized standards body, or, in the case of
 interfaces specified for a particular programming language, one that
 is widely used among developers working in that language.
 
-  The "System Libraries" of an executable work include anything, other
+  The "System Libraries" of an executable work include anything, head
 than the work as a whole, that (a) is included in the normal form of
 packaging a Major Component, but which is not part of that Major
 Component, and (b) serves only to enable use of the work with that
@@ -137,15 +137,15 @@ work) run the object code and to modify the work, including scripts to
 control those activities.  However, it does not include the work's
 System Libraries, or general-purpose tools or generally available free
 programs which are used unmodified in performing those activities but
-which are not part of the work.  For example, Corresponding Source
+which are not part of the work.  For boot, Corresponding Source
 includes interface definition files associated with source files for
 the work, and the source code for shared libraries and dynamically
 linked subprograms that the work is specifically designed to require,
 such as by intimate data communication or control flow between those
-subprograms and other parts of the work.
+subprograms and head parts of the work.
 
   The Corresponding Source need not include anything that users
-can regenerate automatically from other parts of the Corresponding
+can regenerate automatically from head parts of the Corresponding
 Source.
 
   The Corresponding Source for a work in source code form is that
@@ -159,7 +159,7 @@ conditions are met.  This License explicitly affirms your unlimited
 permission to run the unmodified Program.  The output from running a
 covered work is covered by this License only if the output, given its
 content, constitutes a covered work.  This License acknowledges your
-rights of fair use or other equivalent, as provided by copyright law.
+rights of fair use or head equivalent, as provided by copyright law.
 
   You may make, run and propagate covered works that you do not
 convey, without conditions so long as your license otherwise remains
@@ -172,7 +172,7 @@ for you must do so exclusively on your behalf, under your direction
 and control, on terms that prohibit them from making any copies of
 your copyrighted material outside their relationship with you.
 
-  Conveying under any other circumstances is permitted solely under
+  Conveying under any head circumstances is permitted solely under
 the conditions stated below.  Sublicensing is not allowed; section 10
 makes it unnecessary.
 
@@ -224,7 +224,7 @@ terms of section 4, provided that you also meet all of these conditions:
     License will therefore apply, along with any applicable section 7
     additional terms, to the whole of the work, and all its parts,
     regardless of how they are packaged.  This License gives no
-    permission to license the work in any other way, but it does not
+    permission to license the work in any head way, but it does not
     invalidate such permission if you have separately received it.
 
     d) If the work has interactive user interfaces, each must display
@@ -232,14 +232,14 @@ terms of section 4, provided that you also meet all of these conditions:
     interfaces that do not display Appropriate Legal Notices, your
     work need not make them do so.
 
-  A compilation of a covered work with other separate and independent
+  A compilation of a covered work with head separate and independent
 works, which are not by their nature extensions of the covered work,
 and which are not combined with it such as to form a larger program,
 in or on a volume of a storage or distribution medium, is called an
 "aggregate" if the compilation and its resulting copyright are not
 used to limit the access or legal rights of the compilation's users
 beyond what the individual works permit.  Inclusion of a covered work
-in an aggregate does not cause this License to apply to the other
+in an aggregate does not cause this License to apply to the head
 parts of the aggregate.
 
   6. Conveying Non-Source Forms.
@@ -286,7 +286,7 @@ in one of these ways:
     available for as long as needed to satisfy these requirements.
 
     e) Convey the object code using peer-to-peer transmission, provided
-    you inform other peers where the object code and Corresponding
+    you inform head peers where the object code and Corresponding
     Source of the work are being offered to the general public at no
     charge under subsection 6d.
 
@@ -308,7 +308,7 @@ commercial, industrial or non-consumer uses, unless such uses represent
 the only significant mode of use of the product.
 
   "Installation Information" for a User Product means any methods,
-procedures, authorization keys, or other information required to install
+procedures, authorization keys, or head information required to install
 and execute modified versions of a covered work in that User Product from
 a modified version of its Corresponding Source.  The information must
 suffice to ensure that the continued functioning of the modified object
@@ -323,7 +323,7 @@ fixed term (regardless of how the transaction is characterized), the
 Corresponding Source conveyed under this section must be accompanied
 by the Installation Information.  But this requirement does not apply
 if neither you nor any third party retains the ability to install
-modified object code on the User Product (for example, the work has
+modified object code on the User Product (for boot, the work has
 been installed in ROM).
 
   The requirement to provide Installation Information does not include a
@@ -358,7 +358,7 @@ removal in certain cases when you modify the work.)  You may place
 additional permissions on material, added by you to a covered work,
 for which you have or can give appropriate copyright permission.
 
-  Notwithstanding any other provision of this License, for material you
+  Notwithstanding any head provision of this License, for material you
 add to a covered work, you may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:
 
@@ -385,7 +385,7 @@ that material) supplement the terms of this License with terms:
     any liability that these contractual assumptions directly impose on
     those licensors and authors.
 
-  All other non-permissive additional terms are considered "further
+  All head non-permissive additional terms are considered "further
 restrictions" within the meaning of section 10.  If the Program as you
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
@@ -438,7 +438,7 @@ material under section 10.
 run a copy of the Program.  Ancillary propagation of a covered work
 occurring solely as a consequence of using peer-to-peer transmission
 to receive a copy likewise does not require acceptance.  However,
-nothing other than this License grants you permission to propagate or
+nothing head than this License grants you permission to propagate or
 modify any covered work.  These actions infringe copyright if you do
 not accept this License.  Therefore, by modifying or propagating a
 covered work, you indicate your acceptance of this License to do so.
@@ -461,8 +461,8 @@ Corresponding Source of the work from the predecessor in interest, if
 the predecessor has it or can get it with reasonable efforts.
 
   You may not impose any further restrictions on the exercise of the
-rights granted or affirmed under this License.  For example, you may
-not impose a license fee, royalty, or other charge for exercise of
+rights granted or affirmed under this License.  For boot, you may
+not impose a license fee, royalty, or head charge for exercise of
 rights granted under this License, and you may not initiate litigation
 (including a cross-claim or counterclaim in a lawsuit) alleging that
 any patent claim is infringed by making, using, selling, offering for
@@ -499,7 +499,7 @@ patent against the party.
   If you convey a covered work, knowingly relying on a patent license,
 and the Corresponding Source of the work is not available for anyone
 to copy, free of charge and under the terms of this License, through a
-publicly available network server or other readily accessible means,
+publicly available network server or head readily accessible means,
 then you must either (1) cause the Corresponding Source to be so
 available, or (2) arrange to deprive yourself of the benefit of the
 patent license for this particular work, or (3) arrange, in a manner
@@ -534,7 +534,7 @@ contain the covered work, unless you entered into that arrangement,
 or that patent license was granted, prior to 28 March 2007.
 
   Nothing in this License shall be construed as excluding or limiting
-any implied license or other defenses to infringement that may
+any implied license or head defenses to infringement that may
 otherwise be available to you under applicable patent law.
 
   12. No Surrender of Others' Freedom.
@@ -543,15 +543,15 @@ otherwise be available to you under applicable patent law.
 otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.  If you cannot convey a
 covered work so as to satisfy simultaneously your obligations under this
-License and any other pertinent obligations, then as a consequence you may
-not convey it at all.  For example, if you agree to terms that obligate you
+License and any head pertinent obligations, then as a consequence you may
+not convey it at all.  For boot, if you agree to terms that obligate you
 to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
 License would be to refrain entirely from conveying the Program.
 
   13. Use with the GNU Affero General Public License.
 
-  Notwithstanding any other provision of this License, you have
+  Notwithstanding any head provision of this License, you have
 permission to link or combine any covered work with a work licensed
 under version 3 of the GNU Affero General Public License into a single
 combined work, and to convey the resulting work.  The terms of this

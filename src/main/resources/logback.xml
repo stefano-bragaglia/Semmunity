@@ -1,0 +1,18 @@
+<configuration>
+	<appender name="STDERR" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- encoders are assigned the type
+			 ch.qos.logback.classic.encoder.PatternLayoutEncoder by default -->
+		<withJansi>true</withJansi>
+		<encoder>
+			<pattern>%green(%d{HH:mm:ss.SSS}) %boldYellow([%thread]) %highlight(%-5level) %cyan(%logger{36}) - %white(%msg%n)</pattern>
+		</encoder>
+	</appender>
+
+	<logger name="org.springframework" level="WARN"/>
+	<logger name="org.springframework.boot" level="WARN"/>
+	<logger name=" org.thymeleaf" level="WARN"/>
+
+	<root level="INFO">
+		<appender-ref ref="STDERR"/>
+	</root>
+</configuration>
